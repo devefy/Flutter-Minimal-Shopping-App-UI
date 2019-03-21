@@ -1,4 +1,4 @@
-# minimal_shopping_app_ui
+# Flutter Minimal Shopping App ui
 
 A new Flutter project.
 
