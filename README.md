@@ -1,6 +1,10 @@
 # Flutter Minimal Shopping App ui
 
-A new Flutter project.
+![](assets/preview.jpg)
+
+Watch the Video on Youtube - [Youtube Video](https://youtu.be/ePdzk2Is3hQ)
+
+Also Don't Forget to Subscribe to My youtube Channel - [Youtube Channel](https://www.youtube.com/channel/UC9dwxEAvy-zCMAS7rdox46w)
 
 ## Getting Started
 
